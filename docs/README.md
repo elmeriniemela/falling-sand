@@ -1,3 +1,3 @@
 # Falling Sands Game
 
-![alt text](https://raw.githubusercontent.com/thecodebasesite/falling-sand/master/docs/falling-sand.gif)
+![alt text](falling-sand.gif)
